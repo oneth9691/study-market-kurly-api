@@ -1,9 +1,9 @@
-package api.service;
+package com.example.studymarketkurlyapi.api.service;
 
 import java.util.List;
 
-import api.dao.TestMapper;
-import api.dto.portfolio;
+import com.example.studymarketkurlyapi.api.dao.TestMapper;
+import com.example.studymarketkurlyapi.api.dto.portfolio;
 
 import org.springframework.stereotype.Service;
 

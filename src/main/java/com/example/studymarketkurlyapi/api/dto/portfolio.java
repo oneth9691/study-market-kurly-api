@@ -1,4 +1,4 @@
-package api.dto;
+package com.example.studymarketkurlyapi.api.dto;
 
 import lombok.AllArgsConstructor;
 import lombok.Getter;

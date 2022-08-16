@@ -1,8 +1,8 @@
-package api.dao;
+package com.example.studymarketkurlyapi.api.dao;
 
 import java.util.List;
 
-import api.dto.portfolio;
+import com.example.studymarketkurlyapi.api.dto.portfolio;
 
 import org.apache.ibatis.annotations.Mapper;
 import org.springframework.stereotype.Repository;
